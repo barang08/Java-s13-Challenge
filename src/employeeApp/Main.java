@@ -44,6 +44,8 @@ public class Main
 
         Company company = new Company(1,"Baran", 20000.00, new String[]{"Ali","Veli", "Mahmut"});
 company.addEmployee(0, "Ali");
+company.addEmployee(1,"Veli");
+
 
     }
 
